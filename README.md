@@ -1,6 +1,6 @@
-### Hola 👋, Mi nombre es Javier
+### Hola 👋, Mi nombre es Javier Sierra
 #### Web Development | Product Owner
-![Web Development | Product Owner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Development | Product Owner]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://www.canva.com/design/DAFkapHKEQE/A-S81FGT4DAtYQGWD0GDGg/edit?utm_content=DAFkapHKEQE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 Welcome to my GitHub profile! I'm a junior web developer specializing in HTML, CSS, and React. I'm passionate about creating engaging and functional user experiences in the world of web development.
 
