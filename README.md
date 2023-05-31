@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a junior web developer specializing in HTML, C
 
 Habilidades: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on V.2 of this [Educational Search Engine]https://github.com/C4rlosca/FSWD-IndexHelper) 
+- 🔭 I’m currently working on V.2 of this [Educational Search Engine](https://github.com/C4rlosca/FSWD-IndexHelper) 
 - 🌱 I’m currently learning MySQL. Yes, I am approaching the dark side. 
 - 👯 I’m looking to collaborate on Companies and projects interested in teaching someone who really wants to learn. 
 - 💬 Ask me about Philosophy, I'm a geek of this. 
