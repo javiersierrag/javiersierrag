@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Javier Sierra
 #### Web Development | Product Owner
-![Web Development | Product Owner]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://www.canva.com/design/DAFkapHKEQE/A-S81FGT4DAtYQGWD0GDGg/edit?utm_content=DAFkapHKEQE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Web Development | Product Owner]
 
 Welcome to my GitHub profile! I'm a junior web developer specializing in HTML, CSS, and React. I'm passionate about creating engaging and functional user experiences in the world of web development.
 
@@ -17,4 +17,4 @@ Habilidades: REACT / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/javiersierrag)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/javiersierrag)](https://github.com/javiersierrag/github-readme-stats)
